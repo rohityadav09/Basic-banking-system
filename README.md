@@ -1,10 +1,8 @@
-# Basic-banking-system
+# -Basic_Banking_system
 
 # The_Sparks_Foundation_task1
 
-Task 1:
-This is a Basic Banking System.
-The project is done using HTML, CSS and Javascript
+html,css,javascript 
 
 Sparks Foundation Web Development Internship Project : Basic Banking System website. A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
 
